@@ -1,6 +1,16 @@
 # Solutions
 This page documents solution statistics.
 
+## Stats
+* Attempted problems: **5**
+* Skipped problems: **None yet!**
+
+* Correct solutions: **5**
+* Unfinished solutions: **None yet!**
+
+* Success rate: **100%!**
+
+## Solution info
 | ID    | Title                   | Status       | Date completed | Notes |
 |:-----:| ----------------------- | ------------ | -------------- | ----- |
 | `001` | [Multiples](https://en.wikipedia.org/wiki/Multiple_(mathematics)) of `3` or `5` | ✅ Completed | 4 October 2023 |  |
